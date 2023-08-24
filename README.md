@@ -1,3 +1,33 @@
+## English-EN
+# Rock, Paper, Scissors Game
+
+This is a simple Rock, Paper, Scissors game, created as part of a challenge from TheOdinProject course.
+
+## Game Rules
+
+- Each player chooses between Rock, Paper, or Scissors.
+- Rock defeats Scissors, Scissors defeat Paper, Paper defeats Rock.
+- If both players choose the same option, the result is a draw.
+
+## How to Play
+
+1. Clone this repository or download the files.
+2. Open the `index.html` file in a web browser.
+3. You will be prompted to make a choice: Rock, Paper, or Scissors.
+4. The computer will randomly select one of the options.
+5. The result of each round will be displayed in the console.
+
+## Credits
+
+This game was created as part of a challenge from the [TheOdinProject](https://www.theodinproject.com/) course.
+
+## Author
+
+Davi Brandao
+
+---
+## Portuguese-BR
+
 # Pedra, Papel e Tesoura Game
 
 Este é um jogo simples de Pedra, Papel e Tesoura, criado como parte de um desafio do curso TheOdinProject.
@@ -25,3 +55,5 @@ Este jogo foi criado como parte de um desafio do curso [TheOdinProject](https://
 Davi Brandao
 
 ---
+
+
